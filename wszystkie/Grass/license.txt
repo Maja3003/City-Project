@@ -1,0 +1,11 @@
+Model Information:
+* title:	Realtime Grass Test WiP
+* source:	https://sketchfab.com/3d-models/realtime-grass-test-wip-d227a46e10d04e8887cb57af81e63e14
+* author:	Pedro Lima (https://sketchfab.com/Panza)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Realtime Grass Test WiP" (https://sketchfab.com/3d-models/realtime-grass-test-wip-d227a46e10d04e8887cb57af81e63e14) by Pedro Lima (https://sketchfab.com/Panza) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

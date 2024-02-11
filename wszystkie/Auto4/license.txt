@@ -1,0 +1,11 @@
+Model Information:
+* title:	Demolition derby car - Low poly model
+* source:	https://sketchfab.com/3d-models/demolition-derby-car-low-poly-model-4d9d28e987cd4eb3a929b739b486fc75
+* author:	Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Demolition derby car - Low poly model" (https://sketchfab.com/3d-models/demolition-derby-car-low-poly-model-4d9d28e987cd4eb3a929b739b486fc75) by Daniel Zhabotinsky (https://sketchfab.com/DanielZhabotinsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

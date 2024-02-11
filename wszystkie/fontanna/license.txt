@@ -1,0 +1,11 @@
+Model Information:
+* title:	lowpoly Fountain
+* source:	https://sketchfab.com/3d-models/lowpoly-fountain-b1b45153682a447facc70eeca84818cd
+* author:	danilo2222255 (https://sketchfab.com/danilo2222255)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "lowpoly Fountain" (https://sketchfab.com/3d-models/lowpoly-fountain-b1b45153682a447facc70eeca84818cd) by danilo2222255 (https://sketchfab.com/danilo2222255) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

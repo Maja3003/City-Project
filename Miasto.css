@@ -1,0 +1,21 @@
+body { 
+    margin: 0; 
+    overflow: hidden;
+ }
+canvas { 
+    width: 100%; 
+    height: 100%; 
+}
+.button {     
+    background-repeat:no-repeat;
+    cursor:pointer;
+    font-size: 1rem;
+    font-family: Arial;
+    overflow: hidden; 
+    width: 150px;       
+}
+#area1{
+    width: 200px;
+    height: 50px;
+    position: absolute;
+}

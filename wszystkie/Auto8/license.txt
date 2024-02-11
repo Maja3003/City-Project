@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low-poly sports car
+* source:	https://sketchfab.com/3d-models/low-poly-sports-car-23dfdeb55dc24970b36065afaab7a8a5
+* author:	JUFF (https://sketchfab.com/Juff22)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low-poly sports car" (https://sketchfab.com/3d-models/low-poly-sports-car-23dfdeb55dc24970b36065afaab7a8a5) by JUFF (https://sketchfab.com/Juff22) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bushes Grp 04
+* source:	https://sketchfab.com/3d-models/bushes-grp-04-7a35202825b446879e9a208e73ba18f4
+* author:	jemmy (https://sketchfab.com/0esnn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bushes Grp 04" (https://sketchfab.com/3d-models/bushes-grp-04-7a35202825b446879e9a208e73ba18f4) by jemmy (https://sketchfab.com/0esnn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
